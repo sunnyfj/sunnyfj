@@ -1,8 +1,8 @@
 # Hi there 👋 I'm fff
 
-## 🚀 About Me
+<!-- ## 🚀 About Me -->
 
-### 💼 Professional
+<!-- ### 💼 Professional -->
 
 - 🔭 I’m currently working on **Frontend Development** at CLX Technology
 - 🎯 Specializing in **Vue.js ecosystem** and **modern frontend development**
