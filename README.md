@@ -4,7 +4,7 @@
 
 <!-- ### 💼 Professional -->
 
-- 🔭 I’m currently working on **Frontend Development** at CLX Technology
+- 🔭 I’m currently working on **Frontend Development** at CLX
 - 🎯 Specializing in **Vue.js ecosystem** and **modern frontend development**
 - 🌱 Focus on **Enterprise-level Frontend Solutions** and **Technical Infrastructure**
 - 📫 How to reach me: **sunnyfj@163.com** | [Blog](https://sunnyfj.github.io) | WeChat **SunnyFengJian**
